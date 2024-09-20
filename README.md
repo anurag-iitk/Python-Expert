@@ -1,2 +1,2 @@
 # Python Problems
-Python challenging python problems 
+Python challenging programming problems 
